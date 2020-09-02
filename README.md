@@ -2,7 +2,7 @@
 
 
 A simple web-page/api resource that allows you to display the latest releases to your users and allow them to download them.
-It is riented to work with and support private github repositories.
+It is oriented to work with and support private github repositories.
 
 ![](https://user-images.githubusercontent.com/2182108/65677990-3ce81800-e05b-11e9-8750-4e116048d3e0.png)
 
